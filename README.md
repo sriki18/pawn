@@ -26,4 +26,4 @@ npts = 100; seed = 4;
 ```
 
 ## References
-[1] Pianosi, F., Wagener, T., 2015. A simple and efficient method for global sensitivity analysis based on cumulative distribution functions. Environ. Model. Softw. 67, 1–11. [doi:10.1016/j.envsoft.2015.01.004](www.doi.org/10.1016/j.envsoft.2015.01.004)
+[1] Pianosi, F., Wagener, T., 2015. A simple and efficient method for global sensitivity analysis based on cumulative distribution functions. Environ. Model. Softw. 67, 1–11. www.doi.org/10.1016/j.envsoft.2015.01.004
