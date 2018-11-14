@@ -19,7 +19,7 @@ Nu, n, Nc, npts, seed)
 % ## Refernces
 % [1]: Pianosi, F., Wagener, T., 2015. A simple and efficient method for 
 % global sensitivity analysis based on cumulative distribution functions. 
-% Environ. Model. Softw. 67, 1�11. doi:10.1016/j.envsoft.2015.01.004
+% Environ. Model. Softw. 67, 1-11. doi:10.1016/j.envsoft.2015.01.004
 
 
     % Initializations
